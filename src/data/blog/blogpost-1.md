@@ -1,24 +1,23 @@
 ---
 title: Blogpost 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+pubDate: 01/10/2025 16:13
+author: "James Pilkington"
 tags:
   - JavaScript
   - Astro
   - UnoCSS
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: This is the revised "description" for the first blog post.
 ---
 
 ## First Blog Post
 
 I am revising this FIRST BLOG POST as I am trying to work with this "Brutalist" theme.
 
-## Iovis late orbem Perseus sunt
+## I will be attempting to use this "BRUTALIST" template to create a cool blog!
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+This may be a challenge as I'm going to deploy on
+**Vercel**.
 
 - Non turba loca dederunt primordia ineamus Dictys
 - Tanti amat mundus sedula
