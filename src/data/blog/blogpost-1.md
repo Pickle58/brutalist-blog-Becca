@@ -10,11 +10,9 @@ imgUrl: '../../assets/astro.jpeg'
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 ---
 
-## Deorum petiit ignis
+## First Blog Post
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+I am revising this FIRST BLOG POST as I am trying to work with this "Brutalist" theme.
 
 ## Iovis late orbem Perseus sunt
 
