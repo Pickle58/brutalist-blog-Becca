@@ -19,11 +19,11 @@ I am revising this FIRST BLOG POST as I am trying to work with this "Brutalist" 
 This may be a challenge as I'm going to deploy on
 **Vercel**.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+- There are number of things I'll have to figure out
+- I'm not familiar with this CSS
+- What the F*ck was that CSS thing?
+- Next,I will attempt to change the main logo text
+- This will be a challenge!
 
 ## Longum minus sic saepe
 
